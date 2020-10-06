@@ -1,13 +1,11 @@
 ### Olá! 👋
-&nbsp;
+
 - 🔭 Desenvolvedor Front-end, atualmente atuando com desenvolvimento mobile (Ionic). Com experiência em Javascript, assim como nos principais frameworks e bibliotecas, como Angular, React e React Native.
 
 - 🌱 Apaixonado por tecnologia e em aprender mais sobre códigos escaláveis e organizados. Interesse especial em acessibilidade e boas práticas.
 
 - 📫 Contato: <strong>[buzanello.diego@gmail.com](mailto:buzanello.diego@gmail.com)</strong> ou [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/diego-buzanello/)
 
- 
-&nbsp;
 
 <!--
 **diegobuzanello/diegobuzanello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
