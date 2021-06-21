@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔭 Desenvolvedor Front-end, atualmente atuando com desenvolvimento mobile (Ionic). Com experiência em Javascript, assim como nos principais frameworks e bibliotecas, como Angular, React e React Native.
+- 🔭 Desenvolvedor Front-end, atualmente atuando com desenvolvimento mobile (React Native). Com experiência em Javascript, assim como nos principais frameworks e bibliotecas, como Angular, React e React Native.
 
 - 🌱 Apaixonado por tecnologia e em aprender mais sobre códigos escaláveis e organizados. Interesse especial em acessibilidade e boas práticas.
 
